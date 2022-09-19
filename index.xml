@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mopony24.pl</title>
+    <link>http://mopony24.pl/</link>
+    <description>Recent content on mopony24.pl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language><atom:link href="http://mopony24.pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cennik</title>
+      <link>http://mopony24.pl/cennik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mopony24.pl/cennik/</guid>
+      <description>Wymiana opon na felgach stalowych Do 16 cali
+90 zł 17 cali
+100 zł   Wymiana wentyli 5 zł /szt    Wymiana opon na felgach aluminiowych (z wyważeniem) Do 16 cali
+100 zł 17 cali - 110 zł
+18 cali - 130 zł
+19+ cali - 180zł   Przekładka całych kół (z wyważeniem) Stalowe
+80 zł Aluminiowe</description>
+    </item>
+    
+    <item>
+      <title>Galeria</title>
+      <link>http://mopony24.pl/galeria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mopony24.pl/galeria/</guid>
+      <description> div.gallery { display: flex; flex-wrap: wrap; } div.gallery a { flex-grow: 1; object-fit: cover; margin: 2px; display: flex; } div.gallery a img { height: 200px; object-fit: cover; flex-grow: 1; }                         </description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://mopony24.pl/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mopony24.pl/kontakt/</guid>
+      <description>MOPONY MATEUSZ WÓJCIK Najszybciej skontaktujesz się dzwoniąc pod numer: tel: 798 829 898 W razie pytań możesz pisać także na adres: mopony24.wymiana@gmail.com </description>
+    </item>
+    
+  </channel>
+</rss>
